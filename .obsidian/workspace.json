@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "028442f39871d38c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d313fde57e05ba6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1a1cf4050b8b4ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "develop/Linux.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux"
+            }
+          },
+          {
+            "id": "5eff80e6837dd794",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "develop/JAVA/Java内存区域详解.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Java内存区域详解"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9bce5eff97b1101e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e31062cb38e8c1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "743cb30c8d7110b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "fb5c0279f895e592",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "5974d5ca37761ea4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 308.5
+  },
+  "right": {
+    "id": "546fbbbb78a28410",
+    "type": "split",
+    "children": [
+      {
+        "id": "e23358acf5c92c5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8621d8271b42c643",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Shell编程基础知识笔记.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Shell编程基础知识笔记 的反向链接列表"
+            }
+          },
+          {
+            "id": "3c1879f632be0395",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "46c04e4d7cb97998",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2018ebd8cdb8a0af",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "5eff80e6837dd794",
+  "lastOpenFiles": [
+    "粘贴内容/Pasted image 20250624150630.png",
+    "粘贴内容/Pasted image 20250624144714.png",
+    "粘贴内容/Pasted image 20250624144151.png",
+    "粘贴内容/Pasted image 20250624143659.png",
+    "粘贴内容/Pasted image 20250624142156.png",
+    "develop/JAVA/并发面试题总结3.md",
+    "develop/JAVA/Java内存区域详解.md",
+    "develop/docker.md",
+    "develop/JAVA/集合常见面试题1.md",
+    "develop/JAVA/集合常见面试题2.md",
+    "develop/JAVA/常见面试题总结2.md",
+    "develop/JAVA/并发面试题总结1.md",
+    "develop/JAVA/并发面试题总结2.md",
+    "粘贴内容/Pasted image 20250623193812.png",
+    "develop/JAVA/JMM内存模型.md",
+    "develop/Linux.md",
+    "develop/Shell编程基础知识笔记.md",
+    "develop/JAVA/常见面试题总结1.md",
+    "粘贴内容/Pasted image 20250623161818.png",
+    "粘贴内容/Pasted image 20250623161636.png",
+    "操作系统/内存管理/3.内存满了，会发生什么.md",
+    "操作系统/操作系统结构/1.Linux内核和Windows内核.md",
+    "操作系统/内存管理/4.在4gb物理内存的机器上申请8g内存会怎么样.md",
+    "操作系统/内存管理/5.如何避免预读失效和缓存污染问题.md",
+    "develop/JAVA/常见面试题总结3.md",
+    "粘贴内容/Pasted image 20250621150402.png",
+    "粘贴内容/Pasted image 20250621150243.png",
+    "develop/MySQL/基础.md",
+    "develop/MySQL/索引/为什么MySQL采用B+树作为索引.md",
+    "develop/MySQL/索引/基础知识.md",
+    "develop/MySQL/索引/从数据页的角度看B+树.md",
+    "develop/Redis/缓存/数据库和缓存如何保证一致性.md",
+    "develop/Redis/缓存/什么是缓存雪崩、击穿、穿透.md",
+    "develop/Redis/数据类型/Redis常见数据类型和应用场景.md",
+    "粘贴内容/Pasted image 20250620213343.png",
+    "develop/MySQL/事务/事务隔离级别的实现.md",
+    "develop/JAVA",
+    "develop/Redis/缓存",
+    "develop/Redis/高可用",
+    "develop/Redis/持久化",
+    "develop/Redis/数据类型",
+    "develop/Redis",
+    "develop/MySQL/日志",
+    "develop/MySQL/锁",
+    "develop/MySQL/事务",
+    "develop/MySQL/索引",
+    "未命名.canvas"
+  ]
+}
